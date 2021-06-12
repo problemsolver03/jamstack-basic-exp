@@ -1,0 +1,38 @@
+body,
+html {
+  margin: 0;
+  padding: 0;
+}
+
+h1,
+h3 {
+  font-family: "Staatliches", cursive;
+}
+
+h1 {
+  font-size: 60px;
+}
+
+h1 small {
+  font-size: 30px;
+}
+
+.jumbo {
+  height: 30vh;
+  padding: 20vh;
+  text-align: center;
+  background-color: #ccc;
+}
+
+.github-users {
+  padding: 24px;
+  text-align: center;
+}
+
+#repos ul {
+  list-style: none;
+}
+#repos ul li {
+  border-bottom: 1px solid #ccc;
+  padding: 4px 0;
+}
